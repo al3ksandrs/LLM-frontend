@@ -5,6 +5,11 @@ Provides a user friendly GUI for running and using local LLM's.
 
 - Python
 
+# Installation
+
+`cd frontend`
+`npm install`
+
 # Running dev environment
 
 `cd frontend`

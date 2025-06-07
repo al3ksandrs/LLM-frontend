@@ -12,6 +12,7 @@ node_modules/
 __pypackages__/
 
 # Build outputs
+out/
 dist/
 dist-ssr/
 build/
